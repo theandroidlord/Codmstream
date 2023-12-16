@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap');
+
+body {
+    font-size: 15pt;
+    font-family: Arvo;
+    font-weight: bold;
+    background-color: mistyrose;
+}
+
+.container{
+  background-color: rosybrown;
+  padding: 5px;
+  border-radius: 9.8px;
+  margin: auto;
+  
+}
+
+.container div{
+  margin: 5px;
+  text-align: center;
+  background: floralwhite;
+  border-radius: 4px;
+  padding: 5px;
+  
+}
+
+iframe{
+  border-radius: 4px;
+}
